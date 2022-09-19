@@ -1,0 +1,78 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "location - 1"
+    },
+    {
+      "id": 2,
+      "name": "location - 2"
+    },
+    {
+      "id": 3,
+      "name": "location - 3"
+    },
+    {
+      "id": 5,
+      "name": "location - 5"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "name": "todo - 1",
+      "done": true,
+      "isEdit": false
+    },
+    {
+      "id": 2,
+      "name": "todo - 2",
+      "done": true,
+      "isEdit": false
+    },
+    {
+      "done": true,
+      "name": "todo - 3",
+      "id": 3,
+      "isEdit": false
+    },
+    {
+      "id": 5,
+      "name": "todo - 5",
+      "done": true
+    },
+    {
+      "done": false,
+      "name": "todo 44444",
+      "id": 6,
+      "isEdit": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "location-ditails": [
+    {
+      "id": 1,
+      "ditails": "location ditails 1",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "ditails": "location ditails 2",
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "ditails": "location ditails 3",
+      "locationId": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
