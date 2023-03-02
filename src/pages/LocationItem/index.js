@@ -4,7 +4,6 @@ import { useParams } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect } from "react";
 
-// import { getLocationWithDitails } from "../../redux/actions/locationAction";
 
 import {
   getLocationWithDitails
